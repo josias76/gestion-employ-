@@ -18,6 +18,7 @@ summarize age salaire experience
 
 tabulate departement
 
-/*Histogramme pour la variable age :*/
+/*Histogramme pour la variable salaire :*/
 
-histogram age, percent title("Distribution de l'âge des employés") xlabel(25(5)60) ylabel(, angle(horizontal))
+histogram salaire, percent title("Distribution du salaire des employés") xlabel(2500(500)7000) ylabel(, angle(horizontal))
+
